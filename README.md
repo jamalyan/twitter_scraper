@@ -1,2 +1,1 @@
-# twitter_scraper
-Twitter scraper tool
+# Twitter scraper tool
